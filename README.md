@@ -6,7 +6,7 @@ A premium cinematic AI/ML Engineer portfolio website built using modern web tech
 
 Add your deployed website link here:
 
-https://yourusername.github.io/zuha-maryam-portfolio/
+https://zuhamaryam.github.io/zuha-maryam-portfolio/
 
 ---
 
